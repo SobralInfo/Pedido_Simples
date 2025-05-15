@@ -1,0 +1,464 @@
+Caixa aberto: 06/09/2022 10:22:55
+Caixa aberto: 06/09/2022 10:23:29
+Erro ao enviar NFe: 06/09/2022 10:24:00 - Rejeicao: Duplicidade de NF-e, com diferença na Chave de Acesso [chNFe:22220826982672000133650040000003231100003234]
+Caixa aberto: 06/09/2022 10:24:38
+Erro ao enviar NFe: 06/09/2022 10:25:08 - Rejeicao: Duplicidade de NF-e, com diferença na Chave de Acesso [chNFe:22220826982672000133650040000003231100003234]
+Caixa aberto: 06/09/2022 16:10:43
+Erro ao enviar NFe: 06/09/2022 16:11:40 - Rejeicao: Duplicidade de NF-e, com diferença na Chave de Acesso [chNFe:22220826982672000133650040000003231100003234]
+Caixa aberto: 08/09/2022 09:36:29
+Caixa aberto: 16/09/2022 15:23:37
+Caixa aberto: 19/09/2022 14:38:35
+Caixa aberto: 19/09/2022 14:40:07
+Caixa aberto: 19/09/2022 14:52:34
+Caixa aberto: 19/09/2022 14:58:38
+Caixa aberto: 19/09/2022 15:00:26
+Caixa aberto: 19/09/2022 15:02:25
+Caixa aberto: 19/09/2022 15:04:46
+Caixa aberto: 19/09/2022 15:06:36
+Caixa aberto: 19/09/2022 15:10:50
+Caixa aberto: 19/09/2022 15:13:15
+Caixa aberto: 19/09/2022 15:20:51
+Caixa aberto: 02/10/2022 23:24:20
+Caixa aberto: 02/10/2022 23:32:15
+Caixa aberto: 03/10/2022 10:04:07
+Caixa aberto: 03/10/2022 14:10:07
+Caixa aberto: 03/10/2022 14:10:42
+Caixa aberto: 03/10/2022 14:16:54
+Caixa aberto: 03/10/2022 14:26:27
+Caixa aberto: 03/10/2022 14:28:45
+Caixa aberto: 03/10/2022 14:50:37
+Caixa aberto: 03/10/2022 15:03:37
+Caixa aberto: 03/10/2022 15:08:33
+Caixa aberto: 03/10/2022 15:11:29
+Caixa aberto: 03/10/2022 15:12:41
+Caixa aberto: 03/10/2022 16:37:26
+Caixa aberto: 03/10/2022 16:38:36
+Caixa aberto: 03/10/2022 16:40:40
+Caixa aberto: 03/10/2022 17:34:56
+Caixa aberto: 03/10/2022 17:39:57
+Caixa aberto: 03/10/2022 17:46:57
+Caixa aberto: 03/10/2022 23:07:07
+Caixa aberto: 04/10/2022 16:40:24
+Caixa aberto: 04/10/2022 16:46:14
+Caixa aberto: 04/10/2022 16:49:22
+Caixa aberto: 04/10/2022 16:53:20
+Caixa aberto: 04/10/2022 17:01:32
+Caixa aberto: 05/10/2022 10:43:54
+Caixa aberto: 05/10/2022 10:48:40
+Caixa aberto: 05/10/2022 10:57:21
+Caixa aberto: 05/10/2022 16:33:58
+Caixa aberto: 05/10/2022 16:36:30
+Caixa aberto: 05/10/2022 16:39:02
+Caixa aberto: 05/10/2022 16:51:10
+Caixa aberto: 05/10/2022 17:00:01
+Caixa aberto: 05/10/2022 17:02:27
+Caixa aberto: 06/10/2022 00:32:36
+Caixa aberto: 06/10/2022 00:52:25
+Caixa aberto: 06/10/2022 00:54:20
+Caixa aberto: 06/10/2022 00:55:56
+Caixa aberto: 06/10/2022 01:00:03
+Caixa aberto: 06/10/2022 01:06:46
+Caixa aberto: 06/10/2022 01:08:30
+Caixa aberto: 06/10/2022 01:24:27
+Caixa aberto: 06/10/2022 01:37:06
+Caixa aberto: 06/10/2022 01:39:16
+Caixa aberto: 06/10/2022 01:48:04
+Caixa aberto: 06/10/2022 01:53:45
+Caixa aberto: 06/10/2022 01:55:35
+Caixa aberto: 06/10/2022 02:08:35
+Caixa aberto: 06/10/2022 02:15:03
+Caixa aberto: 06/10/2022 02:19:24
+Caixa aberto: 06/10/2022 02:21:36
+Caixa aberto: 06/10/2022 02:23:54
+Caixa aberto: 06/10/2022 07:20:38
+Caixa aberto: 06/10/2022 07:22:35
+Caixa aberto: 06/10/2022 07:25:30
+Caixa aberto: 06/10/2022 07:33:14
+Caixa aberto: 06/10/2022 07:35:23
+Caixa aberto: 06/10/2022 15:48:22
+Caixa aberto: 06/10/2022 15:54:17
+Caixa aberto: 06/10/2022 15:58:46
+Caixa aberto: 06/10/2022 16:08:13
+Caixa aberto: 06/10/2022 16:22:27
+Caixa aberto: 06/10/2022 16:41:34
+Caixa aberto: 06/10/2022 16:42:43
+Caixa aberto: 06/10/2022 16:59:14
+Caixa aberto: 06/10/2022 17:01:26
+Caixa aberto: 06/10/2022 17:03:21
+Caixa aberto: 07/10/2022 09:44:50
+Caixa aberto: 07/10/2022 09:50:57
+Caixa aberto: 07/10/2022 11:00:38
+Caixa aberto: 07/10/2022 11:06:05
+Caixa aberto: 07/10/2022 14:55:45
+Caixa aberto: 07/10/2022 15:23:21
+Caixa aberto: 07/10/2022 15:29:40
+Caixa aberto: 07/10/2022 15:36:32
+Caixa aberto: 07/10/2022 21:01:38
+Erro ao enviar NFe: 07/10/2022 21:14:44 - Rejeicao: Duplicidade de NF-e, com diferença na Chave de Acesso [chNFe:22220826982672000133650040000003231100003234]
+Caixa aberto: 07/10/2022 21:29:22
+Caixa aberto: 07/10/2022 21:30:35
+Caixa aberto: 07/10/2022 21:32:54
+Caixa aberto: 07/10/2022 21:34:30
+Caixa aberto: 10/10/2022 08:00:55
+Caixa aberto: 10/10/2022 08:22:52
+Caixa aberto: 10/10/2022 09:58:33
+Caixa aberto: 10/10/2022 11:14:20
+Caixa aberto: 10/10/2022 11:16:40
+Caixa aberto: 10/10/2022 12:58:11
+Caixa aberto: 10/10/2022 13:07:07
+Caixa aberto: 10/10/2022 13:19:04
+Caixa aberto: 11/10/2022 09:36:30
+Caixa aberto: 11/10/2022 09:37:55
+Caixa aberto: 11/10/2022 09:43:36
+Caixa aberto: 11/10/2022 09:56:03
+Caixa aberto: 11/10/2022 10:39:01
+Caixa aberto: 11/10/2022 10:45:52
+Caixa aberto: 11/10/2022 10:53:42
+Caixa aberto: 11/10/2022 10:57:18
+Caixa aberto: 11/10/2022 10:59:25
+Caixa aberto: 11/10/2022 11:02:55
+Caixa aberto: 11/10/2022 11:04:04
+Caixa aberto: 11/10/2022 11:05:56
+Caixa aberto: 11/10/2022 11:07:25
+Caixa aberto: 11/10/2022 11:09:46
+Caixa aberto: 11/10/2022 11:11:56
+Caixa aberto: 11/10/2022 11:20:11
+Caixa aberto: 11/10/2022 11:26:07
+Caixa aberto: 11/10/2022 11:30:37
+Caixa aberto: 11/10/2022 11:34:01
+Caixa aberto: 11/10/2022 11:36:34
+Caixa aberto: 11/10/2022 11:39:31
+Caixa aberto: 11/10/2022 11:42:55
+Caixa aberto: 11/10/2022 11:44:12
+Caixa aberto: 11/10/2022 11:53:34
+Caixa aberto: 11/10/2022 11:58:49
+Caixa aberto: 11/10/2022 12:57:29
+Caixa aberto: 11/10/2022 13:39:56
+Caixa aberto: 11/10/2022 13:43:30
+Caixa aberto: 11/10/2022 13:45:02
+Caixa aberto: 11/10/2022 13:50:09
+Caixa aberto: 11/10/2022 14:08:09
+Erro ao enviar NFe: 11/10/2022 14:24:36 - Rejeicao: Duplicidade de NF-e, com diferença na Chave de Acesso [chNFe:22220826982672000133650040000003231100003234]
+Caixa aberto: 11/10/2022 14:36:23
+Caixa aberto: 11/10/2022 14:43:03
+Caixa aberto: 11/10/2022 14:48:42
+Caixa aberto: 11/10/2022 16:54:55
+Caixa aberto: 11/10/2022 17:59:46
+Erro ao enviar NFe: 11/10/2022 18:00:51 - Rejeicao: Duplicidade de NF-e, com diferença na Chave de Acesso [chNFe:22220826982672000133650040000003231100003234]
+Caixa aberto: 11/10/2022 18:08:54
+Caixa aberto: 11/10/2022 18:12:03
+Caixa aberto: 11/10/2022 18:23:46
+Caixa aberto: 13/10/2022 08:08:21
+Caixa aberto: 13/10/2022 15:33:09
+Erro ao enviar NFe: 13/10/2022 15:41:49 - Rejeicao: Duplicidade de NF-e, com diferença na Chave de Acesso [chNFe:22220826982672000133650040000003231100003234]
+Caixa aberto: 14/10/2022 00:02:57
+Caixa aberto: 14/10/2022 16:57:21
+Caixa aberto: 14/10/2022 17:10:37
+Caixa aberto: 16/10/2022 17:07:26
+Caixa aberto: 16/10/2022 22:01:49
+Caixa aberto: 16/10/2022 22:26:17
+Caixa aberto: 16/10/2022 22:43:32
+Caixa aberto: 16/10/2022 22:49:49
+Erro ao enviar NFe: 16/10/2022 22:53:02 - Rejeicao: Duplicidade de NF-e, com diferença na Chave de Acesso [chNFe:22220826982672000133650040000003231100003234]
+Erro ao enviar NFe: 16/10/2022 23:01:04 - Rejeicao: Duplicidade de NF-e, com diferença na Chave de Acesso [chNFe:22220826982672000133650040000003231100003234]
+Erro ao enviar NFe: 16/10/2022 23:01:31 - Rejeicao: Duplicidade de NF-e, com diferença na Chave de Acesso [chNFe:22220826982672000133650040000003231100003234]
+Caixa aberto: 18/10/2022 11:45:10
+Caixa aberto: 18/10/2022 14:24:43
+Caixa aberto: 18/10/2022 14:54:18
+Caixa aberto: 18/10/2022 16:49:59
+Caixa aberto: 18/10/2022 17:09:25
+Caixa aberto: 18/10/2022 22:22:51
+Caixa aberto: 19/10/2022 08:03:11
+Caixa aberto: 19/10/2022 16:22:26
+Caixa aberto: 19/10/2022 16:53:15
+Caixa aberto: 19/10/2022 17:11:13
+Caixa aberto: 20/10/2022 11:15:37
+Caixa aberto: 21/10/2022 12:53:56
+Caixa aberto: 22/10/2022 14:46:49
+Caixa aberto: 22/10/2022 15:03:04
+Caixa aberto: 22/10/2022 15:20:38
+Caixa aberto: 23/10/2022 15:27:14
+Caixa aberto: 23/10/2022 22:14:48
+Caixa aberto: 23/10/2022 22:18:10
+Caixa aberto: 25/10/2022 09:28:57
+Caixa aberto: 25/10/2022 09:31:41
+Caixa aberto: 25/10/2022 09:41:43
+Caixa aberto: 25/10/2022 09:54:18
+Caixa aberto: 25/10/2022 10:20:01
+Caixa aberto: 25/10/2022 10:43:38
+Caixa aberto: 25/10/2022 10:47:18
+Caixa aberto: 25/10/2022 10:48:44
+Caixa aberto: 25/10/2022 10:53:46
+Caixa aberto: 25/10/2022 10:58:40
+Erro ao enviar NFe: 25/10/2022 10:59:37 - Rejeicao: Duplicidade de NF-e, com diferença na Chave de Acesso [chNFe:22220826982672000133650040000003231100003234]
+Caixa aberto: 25/10/2022 11:46:27
+Caixa aberto: 25/10/2022 11:47:39
+Caixa aberto: 25/10/2022 11:55:58
+Caixa aberto: 25/10/2022 14:18:09
+Erro ao enviar NFe: 25/10/2022 15:26:19 - Rejeicao: Duplicidade de NF-e, com diferença na ChaCaixa aberto: 25/10/2022 16:29:20
+Caixa aberto: 25/10/2022 16:44:42
+Caixa aberto: 26/10/2022 00:02:05
+Falha ao gerar a venda: 26/10/2022 00:03:52 - '' is not a valid integer value
+Caixa aberto: 26/10/2022 00:06:57
+Caixa aberto: 26/10/2022 00:20:25
+Caixa aberto: 26/10/2022 00:22:26
+Caixa aberto: 26/10/2022 00:25:31
+Caixa aberto: 26/10/2022 00:30:17
+Caixa aberto: 26/10/2022 00:32:44
+Caixa aberto: 26/10/2022 00:37:48
+Caixa aberto: 26/10/2022 00:41:22
+Caixa aberto: 26/10/2022 00:43:29
+Caixa aberto: 26/10/2022 00:44:38
+Caixa aberto: 26/10/2022 00:45:36
+Caixa aberto: 26/10/2022 00:47:28
+Caixa aberto: 26/10/2022 00:50:06
+Caixa aberto: 26/10/2022 00:51:31
+Caixa aberto: 26/10/2022 00:53:27
+Caixa aberto: 26/10/2022 00:55:03
+Caixa aberto: 26/10/2022 00:57:32
+Caixa aberto: 26/10/2022 01:11:19
+Caixa aberto: 26/10/2022 01:23:15
+Caixa aberto: 26/10/2022 01:29:06
+Caixa aberto: 26/10/2022 01:31:04
+Erro ao enviar NFe: 26/10/2022 01:32:28 - Rejeicao: Duplicidade de NF-e, com diferença na Chave de Acesso [chNFe:22220826982672000133650040000003231100003234]
+Caixa aberto: 26/10/2022 01:38:28
+Erro ao enviar NFe: 26/10/2022 01:39:56 - Rejeicao: Duplicidade de NF-e, com diferença na Chave de Acesso [chNFe:22220826982672000133650040000003231100003234]
+Caixa aberto: 26/10/2022 01:41:26
+Caixa aberto: 26/10/2022 01:42:35
+Caixa aberto: 26/10/2022 01:43:49
+Erro ao enviar NFe: 26/10/2022 01:44:16 - Rejeicao: Duplicidade de NF-e, com diferença na Chave de Acesso [chNFe:22220826982672000133650040000003231100003234]
+Caixa aberto: 26/10/2022 01:47:33
+Caixa aberto: 26/10/2022 01:49:16
+Caixa aberto: 26/10/2022 01:54:47
+Caixa aberto: 26/10/2022 08:09:55
+Caixa aberto: 26/10/2022 08:26:42
+Caixa aberto: 26/10/2022 08:30:29
+Caixa aberto: 26/10/2022 09:22:27
+Caixa aberto: 26/10/2022 09:27:30
+Caixa aberto: 26/10/2022 09:29:07
+Caixa aberto: 26/10/2022 09:32:03
+Caixa aberto: 26/10/2022 09:35:30
+Caixa aberto: 26/10/2022 09:38:57
+Erro ao enviar NFe: 26/10/2022 09:39:44 - Rejeicao: Duplicidade de NF-e, com diferença na Chave de Acesso [chNFe:22220826982672000133650040000003231100003234]
+Caixa aberto: 26/10/2022 09:42:44
+Caixa aberto: 26/10/2022 09:44:00
+Caixa aberto: 26/10/2022 09:48:29
+Caixa aberto: 26/10/2022 09:51:17
+Caixa aberto: 26/10/2022 09:52:26
+Caixa aberto: 26/10/2022 09:53:34
+Caixa aberto: 26/10/2022 09:56:43
+Caixa aberto: 26/10/2022 09:57:49
+Caixa aberto: 26/10/2022 10:05:13
+Caixa aberto: 26/10/2022 10:06:32
+Caixa aberto: 26/10/2022 10:08:27
+Caixa aberto: 26/10/2022 10:12:23
+Caixa aberto: 26/10/2022 10:19:36
+Caixa aberto: 26/10/2022 10:23:52
+Caixa aberto: 26/10/2022 10:26:36
+Caixa aberto: 26/10/2022 11:20:20
+Caixa aberto: 26/10/2022 11:24:50
+Caixa aberto: 26/10/2022 13:52:26
+Caixa aberto: 27/10/2022 13:08:33
+Caixa aberto: 27/10/2022 17:01:48
+Caixa aberto: 28/10/2022 09:25:54
+Caixa aberto: 28/10/2022 09:35:19
+Caixa aberto: 28/10/2022 09:59:56
+Caixa aberto: 28/10/2022 10:12:53
+Caixa aberto: 28/10/2022 13:19:40
+Caixa aberto: 28/10/2022 16:52:38
+Caixa aberto: 28/10/2022 17:20:27
+Caixa aberto: 31/10/2022 08:37:50
+Caixa aberto: 31/10/2022 19:34:16
+Caixa aberto: 31/10/2022 19:37:41
+Caixa aberto: 31/10/2022 19:54:28
+Caixa aberto: 02/11/2022 21:18:35
+Caixa aberto: 02/11/2022 21:21:18
+Caixa aberto: 02/11/2022 23:30:27
+Caixa aberto: 02/11/2022 23:32:49
+Caixa aberto: 02/11/2022 23:57:06
+Caixa aberto: 04/11/2022 16:11:43
+Caixa aberto: 07/11/2022 15:55:32
+Caixa aberto: 10/11/2022 16:54:30
+Caixa aberto: 10/11/2022 17:06:19
+Caixa aberto: 10/11/2022 17:16:09
+Caixa aberto: 10/11/2022 17:18:38
+Caixa aberto: 10/11/2022 17:22:46
+Caixa aberto: 11/11/2022 17:07:53
+Caixa aberto: 16/11/2022 15:43:35
+Caixa aberto: 11/12/2022 22:34:37
+Caixa aberto: 02/01/2023 07:20:55
+Caixa aberto: 02/01/2023 07:45:44
+Erro ao enviar NFe: 02/01/2023 07:48:26 - Rejeicao: Duplicidade de NF-e, com diferença na ChaCaixa aberto: 02/01/2023 07:49:00
+Erro ao enviar NFe: 02/01/2023 07:50:21 - Rejeicao: Duplicidade de NF-e, com diferença na ChaCaixa aberto: 02/01/2023 08:15:03
+Caixa aberto: 02/01/2023 08:28:50
+Caixa aberto: 02/01/2023 08:31:59
+Caixa aberto: 02/01/2023 08:33:21
+Caixa aberto: 02/01/2023 08:49:57
+Caixa aberto: 12/01/2023 09:54:35
+Caixa aberto: 12/01/2023 09:59:36
+Caixa aberto: 12/01/2023 10:08:39
+Caixa aberto: 12/01/2023 10:12:31
+Caixa aberto: 12/01/2023 10:21:46
+Caixa aberto: 12/01/2023 10:26:53
+Caixa aberto: 12/01/2023 10:27:48
+Caixa aberto: 20/01/2023 16:33:24
+Caixa aberto: 06/02/2023 18:24:25
+Caixa aberto: 07/02/2023 09:57:23
+Caixa aberto: 07/02/2023 09:59:29
+Caixa aberto: 07/02/2023 10:49:22
+Caixa aberto: 21/05/2023 11:53:20
+Caixa aberto: 21/05/2023 12:12:12
+Caixa aberto: 21/05/2023 12:13:25
+Caixa aberto: 21/05/2023 12:16:09
+Caixa aberto: 21/05/2023 12:19:58
+Caixa aberto: 21/05/2023 12:37:12
+Caixa aberto: 21/05/2023 12:50:01
+Caixa aberto: 21/05/2023 12:50:49
+Caixa aberto: 21/05/2023 12:51:31
+Caixa aberto: 21/05/2023 12:52:14
+Caixa aberto: 21/05/2023 12:55:02
+Caixa aberto: 21/05/2023 13:22:27
+Caixa aberto: 21/05/2023 13:34:48
+Caixa aberto: 21/05/2023 13:35:49
+Caixa aberto: 21/05/2023 13:37:38
+Caixa aberto: 21/05/2023 13:44:12
+Erro ao enviar NFe: 21/05/2023 13:44:46 - 
+Data de Validade do Certificado já expirou: 31/03/2023
+Caixa aberto: 21/05/2023 13:45:31
+Erro ao enviar NFe: 21/05/2023 13:46:05 - 
+Data de Validade do Certificado já expirou: 31/03/2023
+Caixa aberto: 21/05/2023 13:46:56
+Erro ao enviar NFe: 21/05/2023 13:47:33 - 
+Data de Validade do Certificado já expirou: 31/03/2023
+Caixa aberto: 21/05/2023 13:49:14
+Erro ao enviar NFe: 21/05/2023 13:49:48 - 
+Data de Validade do Certificado já expirou: 31/03/2023
+Caixa aberto: 21/05/2023 13:52:39
+Erro ao enviar NFe: 21/05/2023 13:53:15 - 
+Data de Validade do Certificado já expirou: 31/03/2023
+Erro ao enviar NFe: 21/05/2023 13:53:45 - 
+Data de Validade do Certificado já expirou: 31/03/2023
+Caixa aberto: 21/05/2023 13:56:36
+Erro ao enviar NFe: 21/05/2023 13:57:25 - 
+Data de Validade do Certificado já expirou: 31/03/2023
+Caixa aberto: 21/05/2023 14:01:18
+Erro ao enviar NFe: 21/05/2023 14:01:49 - 
+Data de Validade do Certificado já expirou: 31/03/2023
+Caixa aberto: 21/05/2023 14:03:30
+Erro ao enviar NFe: 21/05/2023 14:03:54 - 
+Data de Validade do Certificado já expirou: 31/03/2023
+Caixa aberto: 21/05/2023 14:08:49
+Erro ao enviar NFe: 21/05/2023 14:09:12 - 
+Data de Validade do Certificado já expirou: 31/03/2023
+Caixa aberto: 21/05/2023 14:10:34
+Erro ao enviar NFe: 21/05/2023 14:11:06 - 
+Data de Validade do Certificado já expirou: 31/03/2023
+Caixa aberto: 21/05/2023 14:13:51
+Erro ao enviar NFe: 21/05/2023 14:15:09 - 
+Data de Validade do Certificado já expirou: 31/03/2023
+Caixa aberto: 21/05/2023 14:16:35
+Erro ao enviar NFe: 21/05/2023 14:17:04 - 
+Data de Validade do Certificado já expirou: 31/03/2023
+Caixa aberto: 21/05/2023 14:18:04
+Erro ao enviar NFe: 21/05/2023 14:18:28 - 
+Data de Validade do Certificado já expirou: 31/03/2023
+Caixa aberto: 21/05/2023 14:21:15
+Erro ao enviar NFe: 21/05/2023 14:21:41 - 
+Data de Validade do Certificado já expirou: 31/03/2023
+Caixa aberto: 21/05/2023 14:23:34
+Erro ao enviar NFe: 21/05/2023 14:24:04 - 
+Data de Validade do Certificado já expirou: 31/03/2023
+Caixa aberto: 21/05/2023 14:27:06
+Erro ao enviar NFe: 21/05/2023 14:27:47 - 
+Data de Validade do Certificado já expirou: 31/03/2023
+Caixa aberto: 21/05/2023 14:30:23
+Caixa aberto: 22/05/2023 08:00:13
+Erro ao enviar NFe: 22/05/2023 08:01:25 - 
+Data de Validade do Certificado já expirou: 31/03/2023
+Caixa aberto: 21/02/2024 14:20:07
+Caixa aberto: 27/03/2024 15:45:10
+Erro ao assinar NFe: 27/03/2024 15:47:09 - Certificado Série: "7048240327350EAE", não encontrado!
+Caixa aberto: 27/03/2024 15:52:15
+Erro ao assinar NFe: 27/03/2024 15:53:04 - Certificado Série: "7048240327350EAE", não encontrado!
+Caixa aberto: 27/03/2024 15:54:27
+Erro ao assinar NFe: 27/03/2024 15:54:59 - Certificado Série: "7048240327350EAE", não encontrado!
+Caixa aberto: 27/03/2024 15:57:00
+Caixa aberto: 25/09/2024 08:16:39
+Caixa aberto: 04/11/2024 17:30:21
+Caixa aberto: 04/11/2024 22:13:35
+Caixa aberto: 04/11/2024 22:21:19
+Erro ao assinar NFe: 04/11/2024 22:22:10 - Certificado Série: "7048240327350EAE", não encontrado!
+Caixa aberto: 04/11/2024 22:32:53
+Caixa aberto: 05/11/2024 08:13:17
+Erro ao assinar NFe: 05/11/2024 08:13:43 - Certificado Série: "7048240327350EAE", não encontrado!
+Caixa aberto: 05/11/2024 09:54:31
+Caixa aberto: 05/11/2024 11:07:58
+Caixa aberto: 05/11/2024 14:55:38
+Erro ao assinar NFe: 05/11/2024 15:01:41 - Certificado Série: "7048240327350EAE", não encontrado!
+Erro ao enviar NFe: 05/11/2024 15:02:59 - Rejeicao: CNPJ Emitente nao cadastrado
+Caixa aberto: 05/11/2024 15:09:28
+Erro ao validar NFe: 05/11/2024 15:13:35 - Falha na validação dos dados da nota: 1
+TAG:<det nItem="1"><imposto><ICMS><ICMSSN> ID:N12a/CSOSN(Código de Situação da Operação – Simples Nacional) - Nenhum valor informado.
+
+ --> 1871 - Element '{http://www.portalfiscal.inf.br/nfe}ICMSSN': This element is not expected. Expected is one of ( {http://www.portalfiscal.inf.br/nfe}ICMS00, {http://www.portalfiscal.inf.br/nfe}ICMS10, {http://www.portalfiscal.inf.br/nfe}ICMS20, {http://www.portalfiscal.inf.br/nfe}ICMS30, {http://www.portalfiscal.inf.br/nfe}ICMS40, {http://www.portalfiscal.inf.br/nfe}ICMS51, {http://www.portalfiscal.inf.br/nfe}ICMS60, {http://www.portalfiscal.inf.br/nfe}ICMS70, {http://www.portalfiscal.inf.br/nfe}ICMS90, {http://www.portalfiscal.inf.br/nfe}ICMSPart ).
+
+Caixa aberto: 05/11/2024 15:15:12
+Erro ao enviar NFe: 05/11/2024 15:18:34 - Rejeicao: Emissor nao habilitado para emissao da NFC-e / Retorno CFe: Contribuinte sem permissão de emissão de NFCe. Não possui MFE ativado
+Caixa aberto: 05/11/2024 15:25:38
+Erro ao enviar NFe: 05/11/2024 15:26:10 - Rejeicao: Emissor nao habilitado para emissao da NFC-e / Retorno CFe: Contribuinte sem permissão de emissão de NFCe. Não possui MFE ativado
+Caixa aberto: 05/11/2024 15:27:04
+Caixa aberto: 07/11/2024 11:35:27
+Erro ao enviar NFe: 07/11/2024 11:36:09 - Rejeicao: Emissor nao habilitado para emissao da NFC-e / Retorno CFe: Contribuinte sem permissão de emissão de NFCe. Não possui MFE ativado
+Caixa aberto: 07/11/2024 17:06:42
+Erro ao assinar NFe: 07/11/2024 17:07:15 - O CNPJ do Documento é diferente do CNPJ do Certificado Digital
+Caixa aberto: 07/11/2024 19:22:12
+Caixa aberto: 07/11/2024 19:23:19
+Caixa aberto: 07/11/2024 19:26:46
+Caixa aberto: 07/11/2024 19:30:14
+Caixa aberto: 07/11/2024 19:31:25
+Erro ao enviar NFe: 07/11/2024 19:33:27 - Rejeicao: Ausencia de troco quando o valor dos pagamentos informados for maior que o total da nota
+Caixa aberto: 07/11/2024 19:35:22
+Caixa aberto: 07/11/2024 19:37:06
+Caixa aberto: 07/11/2024 20:37:06
+Caixa aberto: 08/11/2024 07:57:49
+Caixa aberto: 09/11/2024 08:18:06
+Caixa aberto: 09/11/2024 08:32:41
+Caixa aberto: 09/11/2024 08:34:44
+Caixa aberto: 09/11/2024 08:36:16
+Caixa aberto: 09/11/2024 08:39:36
+Caixa aberto: 11/11/2024 15:58:03
+Caixa aberto: 12/11/2024 17:23:38
+Caixa aberto: 12/11/2024 17:24:42
+Caixa aberto: 18/11/2024 10:40:33
+Caixa aberto: 28/11/2024 07:33:12
+Caixa aberto: 28/11/2024 07:52:53
+Caixa aberto: 03/12/2024 11:33:59
+Caixa aberto: 08/12/2024 07:45:46
+Caixa aberto: 08/12/2024 07:49:26
+Caixa aberto: 08/12/2024 08:01:58
+Caixa aberto: 08/12/2024 08:10:08
+Caixa aberto: 08/12/2024 08:17:02
+Caixa aberto: 08/12/2024 08:21:12
+Erro ao validar NFe: 08/12/2024 08:22:41 - Falha na validação dos dados da nota: 6
+TAG:<det nItem="1"><imposto><ICMS><ICMSSN> ID:N12a/CSOSN(Código de Situação da Operação – Simples Nacional) - Nenhum valor informado.
+
+ --> 1871 - Element '{http://www.portalfiscal.inf.br/nfe}ICMSSN': This element is not expected. Expected is one of ( {http://www.portalfiscal.inf.br/nfe}ICMS00, {http://www.portalfiscal.inf.br/nfe}ICMS10, {http://www.portalfiscal.inf.br/nfe}ICMS20, {http://www.portalfiscal.inf.br/nfe}ICMS30, {http://www.portalfiscal.inf.br/nfe}ICMS40, {http://www.portalfiscal.inf.br/nfe}ICMS51, {http://www.portalfiscal.inf.br/nfe}ICMS60, {http://www.portalfiscal.inf.br/nfe}ICMS70, {http://www.portalfiscal.inf.br/nfe}ICMS90, {http://www.portalfiscal.inf.br/nfe}ICMSPart ).
+
+Caixa aberto: 08/12/2024 08:23:06
+Caixa aberto: 08/12/2024 08:24:09
+Caixa aberto: 09/12/2024 08:28:37
+Erro ao validar NFe: 09/12/2024 08:34:32 - Falha na validação dos dados da nota: 6
+TAG:<det nItem="1"><imposto><ICMS><ICMSSN> ID:N12a/CSOSN(Código de Situação da Operação – Simples Nacional) - Nenhum valor informado.
+
+ --> 1871 - Element '{http://www.portalfiscal.inf.br/nfe}ICMSSN': This element is not expected. Expected is one of ( {http://www.portalfiscal.inf.br/nfe}ICMS00, {http://www.portalfiscal.inf.br/nfe}ICMS10, {http://www.portalfiscal.inf.br/nfe}ICMS20, {http://www.portalfiscal.inf.br/nfe}ICMS30, {http://www.portalfiscal.inf.br/nfe}ICMS40, {http://www.portalfiscal.inf.br/nfe}ICMS51, {http://www.portalfiscal.inf.br/nfe}ICMS60, {http://www.portalfiscal.inf.br/nfe}ICMS70, {http://www.portalfiscal.inf.br/nfe}ICMS90, {http://www.portalfiscal.inf.br/nfe}ICMSPart ).
+
+Caixa aberto: 09/12/2024 09:07:45
+Caixa aberto: 09/12/2024 10:16:50
+Caixa aberto: 09/12/2024 10:51:16
+Caixa aberto: 09/12/2024 11:04:35
+Caixa aberto: 09/12/2024 11:07:11
+Caixa aberto: 01/04/2025 11:04:09
+Caixa aberto: 01/04/2025 11:17:50
+Caixa aberto: 15/04/2025 11:41:58
+Caixa aberto: 15/04/2025 11:44:47
+Caixa aberto: 17/04/2025 09:40:31

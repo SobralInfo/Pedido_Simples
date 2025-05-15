@@ -1,0 +1,101 @@
+CREATE TABLE ALIQUOTAS_COFINS (
+    ID     INTEGER NOT NULL,
+    VALOR  DOUBLE PRECISION
+);
+
+
+CREATE TABLE ALIQUOTAS_ICMS (
+    ID     INTEGER NOT NULL,
+    VALOR  DOUBLE PRECISION
+);
+
+CREATE TABLE ALIQUOTAS_PIS (
+    ID     INTEGER NOT NULL,
+    VALOR  DOUBLE PRECISION
+);
+
+CREATE TABLE CEST (
+    CEST       CHAR(7) NOT NULL,
+    DESCRICAO  VARCHAR(300) NOT NULL,
+    SITUACAO   CHAR(1)
+);
+
+CREATE TABLE CFOP (
+    ID         INTEGER NOT NULL,
+    CFOP       INTEGER,
+    DESCRICAO  VARCHAR(250)
+);
+
+CREATE TABLE CST_ICMS (
+    CST        INTEGER NOT NULL,
+    DESCRICAO  VARCHAR(50)
+);
+
+CREATE TABLE CST_PISCOFINS (
+    CST        CHAR(2) NOT NULL,
+    DESCRICAO  VARCHAR(110),
+    STATUS     CHAR(1)
+);
+
+CREATE TABLE NCM (
+    NCM                 CHAR(8) NOT NULL,
+    DESCRICAO           VARCHAR(300) NOT NULL,
+    SITUACAO            CHAR(1),
+    CEST                CHAR(7),
+    DESCRICAO_CEST      VARCHAR(200),
+    PERC_IMP_FEDERAL    DOUBLE PRECISION,
+    PERC_IMP_ESTADUAL   DOUBLE PRECISION,
+    PERC_IMP_MUNICIPAL  DOUBLE PRECISION
+);
+
+CREATE TABLE ORIGEM_ICMS (
+    ID         INTEGER NOT NULL,
+    CODIGO     INTEGER NOT NULL,
+    DESCRICAO  VARCHAR(90)
+);
+
+
+    ALTER table empresa
+    add IE             VARCHAR(20),
+    add CODIGO_CIDADE  INTEGER,
+    add LOGRADOURO     VARCHAR(80),
+    add NUMERO         VARCHAR(20),
+    add COMPLEMENTO    VARCHAR(50),
+    add BAIRRO         VARCHAR(80),
+    add CIDADE         VARCHAR(80),
+    add UF             CHAR(2),
+    add CODIGO_UF      INTEGER,
+    add CEP            VARCHAR(10),
+    add TIPO_REGIME    INTEGER
+
+
+    ALTER table produtos
+    ADD NCM               VARCHAR(8),
+    ADD CEST              VARCHAR(7),
+    ADD TAXA_PIS          DOUBLE PRECISION,
+    ADD TAXA_COFINS       DOUBLE PRECISION,
+    ADD TAXA_ICMS         DOUBLE PRECISION,
+    ADD CST_CSOSN         VARCHAR(3),
+    ADD CST_PIS           CHAR(2),
+    ADD CST_COFINS        CHAR(2),
+    ADD ORIGEM            INTEGER,
+    ADD CFOP              CHAR(4),
+    ADD FISCAL            CHAR(1)
+
+
+    ALTER table formas_pagamento
+    ADD EMITIR_FISCAL  CHAR(1),
+    ADD TIPO_PG_NFCE   INTEGER
+
+    ALTER table venda_cabecalho
+    ADD CHAVE_NFCE        CHAR(44),
+    ADD NUMERO_NFCE       INTEGER
+
+    ALTER table configuracoes
+    ADD CERTIFICADO_DIGITAL   VARCHAR(120),
+    ADD ID_CSC_NFCE           VARCHAR(2),
+    ADD CSC_NFCE              VARCHAR(100),
+    ADD NUMERO_NFCE           INTEGER,
+    ADD SERIE_NFCE            INTEGER,
+    ADD FORMA_EMISSAO         CHAR(1),
+    ADD TIPO_AMBIENTE         CHAR(1)
