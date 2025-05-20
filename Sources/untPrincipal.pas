@@ -537,13 +537,11 @@ begin
       prcMsgAdv('Usuário sem permissão de acesso a função.');
       Exit;
    End;
-
+   //teste
    HabilitarTelaAzul;
    Application.CreateForm(TfrmCadastrarFuncionarios, frmCadastrarFuncionarios);
    frmCadastrarFuncionarios.ShowModal;
    DesabilitarTelaAzul;
-
-
 end;
 
 procedure TfrmPrincipal.HabilitarTelaAzul;
