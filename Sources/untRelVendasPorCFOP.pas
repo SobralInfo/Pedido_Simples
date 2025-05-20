@@ -43,6 +43,7 @@ type
     RLDBResult2: TRLDBResult;
     RLLabel2: TRLLabel;
     RLLabel3: TRLLabel;
+    chkFiscal: TCheckBox;
     procedure Image1Click(Sender: TObject);
     procedure FormKeyDown(Sender: TObject; var Key: Word; Shift: TShiftState);
     procedure Image3Click(Sender: TObject);
@@ -81,6 +82,10 @@ begin
    qryRel.SQL.Add('     FROM venda_cabecalho vc INNER JOIN venda_detalhe vd ON vc.id = vd.id_venda_cabecalho ');
    qryRel.SQL.Add('                             INNER JOIN produtos p ON vd.id_produto = p.id  ');
    qryRel.SQL.Add('    WHERE vc.status = ''F''  ');
+
+   if chkFiscal.Checked then
+      qryRel.SQL.Add('   AND vc.numero_nfce > 0 and vc.chave_nfce <> '''' ');
+
    qryRel.SQL.Add('      AND vc.data_hora_venda BETWEEN :dtIni AND :dtfim ');
    qryRel.SQL.Add(' group by p.cfop ');
    qryRel.SQL.Add(' ORDER BY p.cfop ');

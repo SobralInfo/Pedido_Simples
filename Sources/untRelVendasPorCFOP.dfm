@@ -3,7 +3,7 @@ object frmRelVendasPorCFOP: TfrmRelVendasPorCFOP
   Top = 0
   BorderStyle = bsNone
   Caption = 'Vendas por CFOP'
-  ClientHeight = 216
+  ClientHeight = 227
   ClientWidth = 387
   Color = 16053492
   Font.Charset = DEFAULT_CHARSET
@@ -46,7 +46,7 @@ object frmRelVendasPorCFOP: TfrmRelVendasPorCFOP
   end
   object Image2: TImage
     Left = 43
-    Top = 136
+    Top = 156
     Width = 289
     Height = 39
     Picture.Data = {
@@ -180,14 +180,14 @@ object frmRelVendasPorCFOP: TfrmRelVendasPorCFOP
   end
   object Image3: TImage
     Left = 49
-    Top = 143
+    Top = 163
     Width = 148
     Height = 31
     OnClick = Image3Click
   end
   object Image4: TImage
     Left = 201
-    Top = 143
+    Top = 163
     Width = 131
     Height = 31
     Cursor = crHandPoint
@@ -405,7 +405,6 @@ object frmRelVendasPorCFOP: TfrmRelVendasPorCFOP
     Color = 6710886
     ParentBackground = False
     TabOrder = 3
-    ExplicitWidth = 388
     object Label2: TLabel
       Left = 20
       Top = 8
@@ -508,6 +507,14 @@ object frmRelVendasPorCFOP: TfrmRelVendasPorCFOP
       Stretch = True
       OnClick = Image1Click
     end
+  end
+  object chkFiscal: TCheckBox
+    Left = 64
+    Top = 120
+    Width = 133
+    Height = 17
+    Caption = 'Somente Venda Fiscal'
+    TabOrder = 4
   end
   object qryRel: TFDQuery
     Connection = frmPrincipal.ConexaoLocal
