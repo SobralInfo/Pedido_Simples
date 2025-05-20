@@ -542,8 +542,6 @@ begin
    Application.CreateForm(TfrmCadastrarFuncionarios, frmCadastrarFuncionarios);
    frmCadastrarFuncionarios.ShowModal;
    DesabilitarTelaAzul;
-
-
 end;
 
 procedure TfrmPrincipal.HabilitarTelaAzul;
